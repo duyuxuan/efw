@@ -1,0 +1,35 @@
+{
+    "plugins": [
+        "theme-api",
+        "theme-creative",
+        "search-pro",
+        "-search",
+        "disqus",
+        "-highlight",
+        "-hints",
+        "prism"
+    ],
+    "pluginsConfig": {
+        "theme-api": {
+            "languages": [
+                {
+                    "lang": "js",
+                    "name": "JavaScript",
+                    "default": true
+                },
+                {
+                    "lang": "go",
+                    "name": "Go"
+                }
+            ]
+        }
+    },
+    "author": "changkejun",
+    "title": "efw help document",
+    "links": {
+        "sidebar": {
+            "Copyright": "http://www.escco.co.jp/"
+        }
+    },
+    "description": "More easier to coding with JavaScript."
+}
