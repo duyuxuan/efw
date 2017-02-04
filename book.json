@@ -1,0 +1,32 @@
+{
+"title" : "efw help document",
+"description" : "More easier to coding with JavaScript.",
+"author" : "changkejun",
+"plugins": [
+"theme-api",
+"theme-creative",
+"search-pro",
+"-search",
+"disqus"
+],
+"links" : {
+"sidebar" : {
+"Copyright" : "http://www.escco.co.jp/"
+}
+},
+"pluginsConfig": {
+"theme-api": {
+"languages": [
+{
+"lang": "js",
+"name": "JavaScript",
+"default": true
+},
+{
+"lang": "go",
+"name": "Go"
+}
+]
+}
+}
+}
