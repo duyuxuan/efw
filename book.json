@@ -1,5 +1,14 @@
 {
-    "plugins": [ "theme-api" ],
+    "plugins": [
+        "theme-api",
+        "theme-creative",
+        "search-pro",
+        "-search",
+        "disqus",
+        "github",
+        "prism",
+        "-highlight"
+    ],
     "pluginsConfig": {
         "theme-api": {
             "languages": [
@@ -13,6 +22,17 @@
                     "name": "Go"
                 }
             ]
+        },
+        "github": {
+            "url": "https://github.com/efwGrp/efw3.X"
         }
-    }
+    },
+    "author": "changkejun",
+    "title": "efw help document",
+    "links": {
+        "sidebar": {
+            "Copyright": "http://www.escco.co.jp/"
+        }
+    },
+    "description": "More easier to coding with JavaScript."
 }
