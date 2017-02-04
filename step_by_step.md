@@ -18,7 +18,7 @@
 	<td>Tomcat 1.7 or Tomcat 1.8 is recommended, 
 		Or anything else which supports Servlet 3.X or later.<br>
 		*A url for reference. 
-		[http://tomcat.apache.org/whichversion.html]
+		<a href="http://tomcat.apache.org/whichversion.html">http://tomcat.apache.org/whichversion.html</a>
 	</td>
 	<td>It is troublesome without Servlet 3.X, 
 		because you must modify web.xml to add servlet defines.
@@ -28,8 +28,8 @@
 	<td>Browsers</td>
 	<td>IE8 or later, FireFox, Chrome, Edge, etc.</td>
 	<td>All browsers that can use jQuery v3.1.1. <br>
-		*If you want to use cors, please check the url. 
-		[http://caniuse.com/#feat=cors]
+		*If you want to use cors, please check the url.
+		<a href="http://caniuse.com/#feat=cors">http://caniuse.com/#feat=cors</a> 
 	</td>
 </tr>
 </table>
@@ -45,7 +45,7 @@
 </tr>
 <tr>
 	<td>PostgreSQL</td>
-	<td>1. Download version 9.3 or later and install it. [https://www.postgresql.org/download/]<br>
+	<td>1. Download version 9.3 or later and install it. <a href="https://www.postgresql.org/download/">https://www.postgresql.org/download/</a><br>
 		2. Create a database named "efwSample". </td>
 	<td>The sample database is created by version 9.3 and named as "efwSample". </td>
 </tr>
@@ -87,7 +87,7 @@
 <tr>
 	<td>Start Up</td>
 	<td>1. Start up Tomcat.<br>
-		2. Open the login page. [http://localhost:8080/efw/login.jsp] </td><td></td>
+		2. Open the login page. <a href="http://localhost:8080/efw/login.jsp">http://localhost:8080/efw/login.jsp/</a> </td><td></td>
 </tr>
 </table>
 
