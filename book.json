@@ -3,7 +3,6 @@
         "-search",
         "highlight",
         "-hints",
-        "back-to-top-button",
         "-theme-default"
     ],
     "pluginsConfig": {
@@ -11,17 +10,17 @@
             "facebook": true,
             "twitter": true,
             "google": true,
-            "weibo": true,
+            "weibo": false,
             "instapaper": false,
             "vk": false,
-            "all": "facebook,google,twitter,weibo,instapaper"
+            "all": "facebook,google,twitter"
         }
     },
     "author": "changkejun",
     "title": "efw help document",
     "links": {
         "sidebar": {
-            "Copyright": "http://www.escco.co.jp/"
+            "Home": "http://www.escco.co.jp"
         }
     },
     "description": "More easier to coding with JavaScript."
