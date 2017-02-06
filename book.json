@@ -1,4 +1,13 @@
 {
+    "author": "changkejun",
+    "title": "efw help document",
+    "links": {
+        "sidebar": {
+            "Copyright": "http://www.escco.co.jp/"
+        }
+    },
+    "description": "More easier to coding with JavaScript.",
+    "gitbook" : "2.6.4",
     "plugins": [
         "theme-api",
         "theme-creative",
@@ -29,12 +38,5 @@
             "url": "https://github.com/efwGrp/efw3.X"
         }
     },
-    "author": "changkejun",
-    "title": "efw help document",
-    "links": {
-        "sidebar": {
-            "Copyright": "http://www.escco.co.jp/"
-        }
-    },
-    "description": "More easier to coding with JavaScript."
+    
 }
