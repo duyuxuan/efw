@@ -13,6 +13,19 @@
    * Event JS
       * [Event Programming](api_event.md)
       * [About Global Even](api_global.md)
+   * Outside SQL
+      * [SQL XML](api_sql.md)
+   * Outside Mail
+      * [Mail XML](api_mail.md)
+   * Global
+      * file
+         * [get](file.get.md)
+         * [list](file.list.md)
+         * [isFile](file.isFile.md)
+         * [isFolder](file.isFolder.md)
+         * [makeFile](file.makeFile.md) 
+         * [makeDir](file.makeDir.md)   
+      * csv   
 * [Properties](properties_file.md)
 * [Files List](files_list.md)
 * [How to](how_to.md)
