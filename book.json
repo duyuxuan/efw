@@ -1,26 +1,12 @@
 {
     "plugins": [
         "-search",
-        "-highlight",
+        "highlight",
         "-hints",
-        "prism",
-        "github",
         "back-to-top-button",
         "-theme-default"
     ],
     "pluginsConfig": {
-        "theme-api": {
-            "languages": [
-                {
-                    "lang": "js",
-                    "name": "JavaScript",
-                    "default": true
-                }
-            ]
-        },
-        "github": {
-            "url": "https://github.com/efwGrp/efw3.X"
-        },
         "sharing": {
             "facebook": true,
             "twitter": true,
