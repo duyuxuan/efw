@@ -10,8 +10,7 @@
         "prism",
         "github",
         "back-to-top-button",
-        "prism-themes",
-        "book-summary-scroll-position-saver"
+        "prism-themes"
     ],
     "pluginsConfig": {
         "theme-api": {
