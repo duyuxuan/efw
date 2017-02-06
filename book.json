@@ -1,7 +1,7 @@
 {
     "plugins": [
-        "theme-api",
-        "theme-creative",
+        "-theme-api",
+        "-theme-creative",
         "search-pro",
         "-search",
         "disqus",
@@ -9,7 +9,8 @@
         "-hints",
         "prism",
         "github",
-        "back-to-top-button"
+        "back-to-top-button",
+        "prism-themes"
     ],
     "pluginsConfig": {
         "theme-api": {
@@ -25,7 +26,8 @@
             "url": "https://github.com/efwGrp/efw3.X"
         },
         "disqus": {
-            "shortName": "gitbookuse"
+            "shortName": "efwComment",
+            "useIdentifier": false
         }
     },
     "author": "changkejun",
