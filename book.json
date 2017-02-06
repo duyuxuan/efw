@@ -1,19 +1,28 @@
 {
     "plugins": [
+        "theme-api",
+        "theme-creative",
+        "search-pro",
         "-search",
-        "highlight",
+        "disqus",
+        "-highlight",
         "-hints",
-        "-theme-default"
+        "prism",
+        "github",
+        "back-to-top-button"
     ],
     "pluginsConfig": {
-        "sharing": {
-            "facebook": true,
-            "twitter": true,
-            "google": true,
-            "weibo": false,
-            "instapaper": false,
-            "vk": false,
-            "all": "facebook,google,twitter"
+        "theme-api": {
+            "languages": [
+                {
+                    "lang": "js",
+                    "name": "JavaScript",
+                    "default": true
+                }
+            ]
+        },
+        "github": {
+            "url": "https://github.com/efwGrp/efw3.X"
         }
     },
     "author": "changkejun",
