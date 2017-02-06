@@ -1,19 +1,8 @@
 {
-    "author": "changkejun",
-    "title": "efw help document",
-    "links": {
-        "sidebar": {
-            "Copyright": "http://www.escco.co.jp/"
-        }
-    },
-    "description": "More easier to coding with JavaScript.",
-    "gitbook" : "2.6.4",
     "plugins": [
         "theme-api",
         "theme-creative",
-        "search-pro",
         "-search",
-        "disqus",
         "-highlight",
         "-hints",
         "prism",
@@ -27,16 +16,28 @@
                     "lang": "js",
                     "name": "JavaScript",
                     "default": true
-                },
-                {
-                    "lang": "go",
-                    "name": "Go"
                 }
             ]
         },
         "github": {
             "url": "https://github.com/efwGrp/efw3.X"
+        },
+        "sharing": {
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "weibo": true,
+            "instapaper": false,
+            "vk": false,
+            "all": "facebook,google,twitter,weibo,instapaper"
         }
-    }
-    
+    },
+    "author": "changkejun",
+    "title": "efw help document",
+    "links": {
+        "sidebar": {
+            "Copyright": "http://www.escco.co.jp/"
+        }
+    },
+    "description": "More easier to coding with JavaScript."
 }
