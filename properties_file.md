@@ -158,7 +158,4 @@ the file /WEB-INF/classes/efw.properties is established to set the framework. If
 	<td>mail/efw</td>
 	<td>The default mail resource name, which must be defined in /META-INF/context.xml. If your server is not tomcat, you can define it by jndi name. Example: java:xxx/yyy/zzz  or  [java:comp/env/]mail/efw</td>
 </tr>
-
-
 </table>
-</DL></DD>
