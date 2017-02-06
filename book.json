@@ -34,7 +34,7 @@
     "title": "efw help document",
     "links": {
         "sidebar": {
-            "Home": "http://www.escco.co.jp"
+            "Copyright": "http://www.escco.co.jp"
         }
     },
     "description": "More easier to coding with JavaScript."
