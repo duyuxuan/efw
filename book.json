@@ -11,7 +11,8 @@
         "github",
         "back-to-top-button",
         "prism-themes",
-        "expandable-chapters"
+        "expandable-chapters",
+        "tbfed-pagefooter"
     ],
     "pluginsConfig": {
         "theme-api": {
@@ -28,6 +29,11 @@
         },
         "disqus": {
             "shortName": "efw-1"
+        },
+        "tbfed-pagefooter": {
+            "copyright":"Copyright &copy efw 3.X 2017",
+            "modify_label": "The last updated time：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
         }
     },
     "author": "changkejun",
