@@ -1,13 +1,12 @@
 {
     "plugins": [
-        "theme-api",
-        "theme-creative",
         "-search",
         "-highlight",
         "-hints",
         "prism",
         "github",
-        "back-to-top-button"
+        "back-to-top-button",
+        "-theme-default"
     ],
     "pluginsConfig": {
         "theme-api": {
