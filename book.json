@@ -23,7 +23,10 @@
         },
         "github": {
             "url": "https://github.com/efwGrp/efw3.X"
-        }
+        },
+        "disqus": {
+            "shortName": "gitbookuse"
+        },
     },
     "author": "changkejun",
     "title": "efw help document",
