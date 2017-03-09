@@ -35,7 +35,7 @@
 <tr><td>session</td><td><a href="session.get.md">get</a></td><td><a href="session.set.md">set</a></td><td><a href="session.create.md">create</a></td><td><a href="session.invalidate.md">invalidate</a></td></tr>
 <tr><td>cookie</td><td><a href="cookie.get.md">get</a></td><td><a href="cookie.set.md">set</a></td></tr>
 <tr><td>{ any }</td><td><a href="any.debug.md">debug</a></td><td><a href="any.format.md">format</a></td><td><a href="any.parse.md">parse</a></td></tr>
-<tr><td>{ Date }</td><td><a href="Date.getYears.md">getYears</a></td></tr>
+<tr><td>{ Date }</td><td><a href="date.getYears.md">getYears</a></td></tr>
 <tr><td>{ String }</td><td><a href="String.base64Encode.md">base64Encode</a></td><td><a href="String.base64EncodeURI.md">base64EncodeURI</a></td><td><a href="String.base64Decode.md">base64Decode</a></td></tr>
 
 </table>
